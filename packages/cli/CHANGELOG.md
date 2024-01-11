@@ -1,5 +1,18 @@
 # @effect/cli
 
+## 0.28.6
+
+### Patch Changes
+
+- [#1898](https://github.com/Effect-TS/effect/pull/1898) [`4ef1e6f`](https://github.com/Effect-TS/effect/commit/4ef1e6f4e0376532957208d3f4c82a8ed277ffd6) Thanks [@tim-smart](https://github.com/tim-smart)! - add Schema apis to cli Options & Args
+
+- Updated dependencies [[`687e02e`](https://github.com/Effect-TS/effect/commit/687e02e7d84dc06957844160761fda90929470ab), [`8eec87e`](https://github.com/Effect-TS/effect/commit/8eec87e311ce55281a98517e6df0ef103b43e8a8), [`8eec87e`](https://github.com/Effect-TS/effect/commit/8eec87e311ce55281a98517e6df0ef103b43e8a8), [`8eec87e`](https://github.com/Effect-TS/effect/commit/8eec87e311ce55281a98517e6df0ef103b43e8a8), [`8eec87e`](https://github.com/Effect-TS/effect/commit/8eec87e311ce55281a98517e6df0ef103b43e8a8), [`8eec87e`](https://github.com/Effect-TS/effect/commit/8eec87e311ce55281a98517e6df0ef103b43e8a8), [`337e80f`](https://github.com/Effect-TS/effect/commit/337e80f69bc36966f889c439b819db2f84cae496), [`25adce7`](https://github.com/Effect-TS/effect/commit/25adce7ae76ce834096dca1ed70a60ad1a349217), [`48a3d40`](https://github.com/Effect-TS/effect/commit/48a3d40aed0f923f567b8911dade732ff472d981)]:
+  - @effect/schema@0.59.2
+  - effect@2.0.4
+  - @effect/platform@0.42.0
+  - @effect/printer@0.30.4
+  - @effect/printer-ansi@0.31.4
+
 ## 0.28.5
 
 ### Patch Changes
